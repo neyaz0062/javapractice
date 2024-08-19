@@ -19,7 +19,7 @@ public class DoublyLinMain {
         System.out.println();
 
 
-        list.addAtIndex(9, 100);
+        list.addAtIndex(0, 100);
         list.display();
 
     }
